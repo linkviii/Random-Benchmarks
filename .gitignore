@@ -1,0 +1,3 @@
+_out/
+*.bin
+__pycache__/
